@@ -1,0 +1,4 @@
+Pkg install python
+Pkg install python2
+Pkg install got
+Git clone
